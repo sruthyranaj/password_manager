@@ -39,8 +39,8 @@ create a super admin in django using command
 `python manage.py createsuperuser`
 admin url endpoint: /admin
 Use django admin panel for
-creating `admin` group
-assigning user to `admin` group.
+1. creating `admin` group
+2. assigning user to `admin` group.
 
 
 API Functionalities
